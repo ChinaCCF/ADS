@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ADS\ADS\bin\Release\ADS.exe
+C:\Users\Administrator\Desktop\ADS\ADS\bin\Release\ADS.pdb
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Release\ADS.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Release\ADS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Release\ADS.exe
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Release\ADS.pdb

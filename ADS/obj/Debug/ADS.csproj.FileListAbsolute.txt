@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\ADS\ADS\bin\Debug\ADS.exe
+C:\Users\Administrator\Desktop\ADS\ADS\bin\Debug\ADS.pdb
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Debug\ADS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Debug\ADS.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Debug\ADS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Debug\ADS.exe
+C:\Users\Administrator\Desktop\ADS\ADS\obj\Debug\ADS.pdb

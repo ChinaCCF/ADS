@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ADS\TestAD\bin\Release\TestAD.exe
+C:\Users\Administrator\Desktop\ADS\TestAD\bin\Release\TestAD.pdb
+C:\Users\Administrator\Desktop\ADS\TestAD\obj\Release\TestAD.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADS\TestAD\obj\Release\TestAD.exe
+C:\Users\Administrator\Desktop\ADS\TestAD\obj\Release\TestAD.pdb
